@@ -102,12 +102,12 @@ span {
     margin-top: 10px;
 }
 .home-img {
-    width: 400px;
+    width: 350px;
 }
 .home-img img {
     width: 100%;
     height: auto;
-    border-radius: 50%;
+    /* border-radius: 50%; */
 }
 /* About */
 .about {
