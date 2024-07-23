@@ -117,9 +117,12 @@ span {
     gap: 32px;
     background: var(--second-bg-color);
 }
+.about-img{
+    width: 800px;
+}
 .about-img img {
-    width: 300px;
-    height: 300px;
+    max-width: 100%;
+    height: auto;
     border-radius: 50%;
 }
 .heading {
